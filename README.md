@@ -7,4 +7,4 @@ Code editor synchronization enhances collaborative coding by allowing multiple u
 
 
 
-## The output is
+## Output
