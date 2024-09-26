@@ -8,3 +8,5 @@ Code editor synchronization enhances collaborative coding by allowing multiple u
 
 
 ## Output
+![Screenshot (405)](https://github.com/user-attachments/assets/98db4a2a-e8b0-429b-8cae-949bfceb2988)
+
